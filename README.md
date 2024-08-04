@@ -1,4 +1,4 @@
-# string
+# String
 
 ### string.h Функции
 
